@@ -1,6 +1,6 @@
 <body>
       <header>
-              <title>app.creation</title>
+              <div>app.creation</div>
               <nav>
                    <a>start </a>
                    <a>services</a>
